@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Front-End Web Developer  
 Serdang, Malaysia · Jakarta, Indonesia 
-📧 **faridjuliano.fj@gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/farid-juliano/) · 🔗 [GitHub](https://github.com/HantuPutih)
+📧 **faridjuliano.fj@gmail.com** · 🔗 [LinkedIn](https://linkedin.com/in/farid-juliano/) · 🔗 [GitHub](https://github.com/faridjuliano)
 
 ---
 
