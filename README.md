@@ -50,7 +50,7 @@ Front-End Web Developer with 3+ years of experience building production web appl
 
 ## Education
 
-- **MSE, Software Engineering** – Universiti Putra Malaysia (UPM), 2024 – *Expected Oct 2026*  
+- **MSE, Software Engineering** – Universiti Putra Malaysia (UPM), 9/2024 – 9/2026 
 - **Full Stack JavaScript Bootcamp** – Hacktiv8, 2021–2022  
 - **BA, German Studies** – Universitas Indonesia, 2016–2020  
 
